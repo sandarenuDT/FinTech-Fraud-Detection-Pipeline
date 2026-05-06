@@ -121,6 +121,8 @@ services:
     networks:
       - fraud_net
 
+  
+
   # ─── Producer (runs once, then exits) ─────────────────────────
   producer:
     build:
