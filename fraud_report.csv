@@ -1,0 +1,11 @@
+smerchant_category,fraud_attempts,total_fraud_usd
+electronics,702,4602401.36
+travel,647,4271636.84
+online_retail,644,4239051.66
+clothing,396,87119.41
+atm_withdrawal,394,109482.38
+entertainment,388,41668.84
+restaurant,374,29192.64
+fuel,369,25587.50
+healthcare,363,92781.79
+grocery,355,46528.77

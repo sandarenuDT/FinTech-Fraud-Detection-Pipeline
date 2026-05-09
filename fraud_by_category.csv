@@ -1,0 +1,11 @@
+merchant_category,fraud_attempts,total_fraud_usd,avg_amount
+travel,42,219018.97,5214.74
+electronics,38,251558.30,6619.96
+online_retail,35,299232.92,8549.51
+clothing,22,5113.62,232.44
+grocery,20,3360.48,168.02
+healthcare,20,5464.73,273.24
+fuel,19,1342.70,70.67
+atm_withdrawal,16,3878.05,242.38
+restaurant,16,1318.56,82.41
+entertainment,16,1672.74,104.55
