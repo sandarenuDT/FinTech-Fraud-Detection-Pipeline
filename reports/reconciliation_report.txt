@@ -1,0 +1,11 @@
+=======================================================
+   FRAUD DETECTION PIPELINE - RECONCILIATION REPORT
+=======================================================
+  Generated : 2026-05-10 00:44:58 UTC
+  Window    : All available data
+
+  Total Ingress  : $38,841,874.10  (10,000 txns)
+  Validated      : $2,006,923.82  (5,000 txns)
+  Fraud Flagged  : $15,107,760.40  (5,000 txns)
+  Fraud Rate     : 50.00%
+=======================================================
